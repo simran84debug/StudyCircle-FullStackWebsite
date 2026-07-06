@@ -77,7 +77,7 @@ http://localhost/StudyCircle
 
 ---
 
-## 👩‍💻 About the Developer
+## About the Developer
 
 **Simran Sangral**
 
