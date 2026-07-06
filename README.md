@@ -3,7 +3,7 @@
 StudyCircle is a responsive full-stack educational website developed for a coaching institute. The project provides information about various courses and allows students to register online and send enquiries through a contact form. It was originally created as a frontend college project and later enhanced with PHP, MySQL, improved UI, and live deployment.
 
 ## Live Website
-https://studycircle-simran.infinityfreeapp.com
+https://studycircle-simran.infinityfreeapp.com 
 
 ## Project Overview
 
