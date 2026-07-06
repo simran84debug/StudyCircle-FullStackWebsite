@@ -1,0 +1,42 @@
+
+#logoutBtn{
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background-color: #090909;
+}
+
+.dashboard{
+    margin: 50px auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #c8dbd2;
+    width: auto;
+    border: 1px solid #dbdbdb;
+    padding: 40px;
+    text-align: center;
+    padding:35px;
+    border-radius:15px;
+    box-shadow:0 15px 35px rgba(0,0,0,0.25);
+    animation:fadeIn 0.8s ease;
+}
+
+ button:hover{
+    transform:translateY(-3px);
+    box-shadow:0 20px 30px #f47005;
+}
+#menubtn{
+    display:none;
+}
+
+@keyframes fadeIn{
+
+    from{
+        opacity:0;
+        transform:translateY(30px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
