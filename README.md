@@ -77,8 +77,10 @@ http://localhost/StudyCircle
 
 ---
 
-## Developer
+## 👩‍💻 About the Developer
 
 **Simran Sangral**
-B.Tech Computer Science Engineering
+
+Undergraduate Student pursuing B.Tech in Computer Science & Engineering.
+
 GitHub: https://github.com/simran84debug
