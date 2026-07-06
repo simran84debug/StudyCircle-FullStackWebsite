@@ -82,5 +82,3 @@ http://localhost/StudyCircle
 **Simran Sangral**
 
 Undergraduate Student pursuing B.Tech in Computer Science & Engineering.
-
-GitHub: https://github.com/simran84debug
